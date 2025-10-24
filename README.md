@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Timothy!
 
-> 🚀 A passionate **Full-Stack Software Developer** and an **Instructor at Southern Denmark University** who likes to build Applications and Scalable Websites, implement and test Cyber Security, Networking, Automation and Artificial Intellgence, and explore Machine Learning in my free time.
+> 🚀 A passionate **Full-Stack Software Developer** and an **Instructor at Southern Denmark University** who likes to build Applications and Scalable Websites, implement and test **Cyber Security**, **Networking**, **Automation** and **Artificial Intellgence**, and explore **Machine Learning** in my free time.
 
 ---
 
@@ -17,7 +17,7 @@
 * Diving deeper into **React VITE** to create the FrontEnd, **Firebase** for the data storage, **HTML, CSS, JavaScript** as the programming languages for the logic, **Vercel** to deploy the website and **Microcontrollers** to gather and send data based on the usage of the Urinals.
 
 * **4th Semester**
-* Created a full-stack **Scalable Website**. This is a book reccomendation website, that utilizes User Authentication, AI and Machine Learning to reccomend books based on favourited books for an individual.
+* Created a full-stack **Scalable Website**. This is a book reccomendation website, that utilizes User Authentication, **AI and Machine Learning** to reccomend books based on favourited books for an individual.
 * Utilizing **Django** as the framework, Importing data from a provided database, **HTML, CSS, JavaScript and Python with Django** as the programming languages.
 
 * **3th Semester**
@@ -27,6 +27,16 @@
 * **2nd Semester**
 * Made a **Application**. This is a application that displays statistics. This application serves the purpose to display and graph out the statistics and usages of heating for Danfoss.
 * Utilizing **Avalonia** as the framework,**C#** as the programming language and **.NET**.
+
+---
+
+### 💡 Interests & Focus Areas
+My interests extend beyond traditional full-stack development into specialized technical fields, which I explore through academic contributions and personal projects:
+
+* **Cyber Security (Defensive & Offensive):** Actively participating in events (like **CyberSecurityDK**) focused on implementing and testing security protocols to build **resilient, scalable websites** and applications.
+* **Artificial Intelligence & Machine Learning:** Implementing core ML concepts for **recommendation systems** (as seen in the 4th Semester project) and continually seeking ways to integrate predictive modeling into application logic.
+* **Automation:** Using scripting and microcontrollers (like the **Pico Board** and other **Microcontrollers**) to automate real-world and software processes, enhancing system efficiency and reliability.
+* **Networking:** Building and managing system architecture that supports communication between applications, microcontrollers, and databases to ensure **scalable** and seamless data flow.
 
 ---
 
