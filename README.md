@@ -32,18 +32,6 @@
 * Created a **Text based game**. This was a text based game for the user to play.
 * Used **C#** as the programming language and **.NET**.
 
----
-
-### 💡 Interests & Focus Areas
-My interests extend beyond traditional full-stack development into specialized technical fields, which I explore through academic contributions and personal projects:
-
-* **Cyber Security (Defensive & Offensive):** Actively participating in events (like **CyberSecurityDK**) focused on implementing and testing security protocols to build **resilient, scalable websites** and applications.
-* **Artificial Intelligence & Machine Learning:** Implementing core ML concepts for **recommendation systems** (as seen in the 4th Semester project) and continually seeking ways to integrate predictive modeling into application logic.
-* **Automation:** Using scripting and microcontrollers (like the **Pico Board** and other **Microcontrollers**) to automate real-world and software processes, enhancing system efficiency and reliability.
-* **Networking:** Building and managing system architecture that supports communication between applications, microcontrollers, and databases to ensure **scalable** and seamless data flow.
-
----
-
 ### 🛠️ My Tech Stack
 
 | Category | Skills/Tools |
@@ -54,7 +42,7 @@ My interests extend beyond traditional full-stack development into specialized t
 | **Databases/BaaS** | ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase Badge](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NoSQL Badge](https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Mobile & Design** | ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | **AI/Hardware** | ![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) |
-| **DevOps & Workflow** | ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **DevOps & Workflow** | ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Plastic SCM Badge](https://img.shields.io/badge/Plastic%20SCM-1755a5?style=for-the-badge&logo=plastic-scm&logoColor=white) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 ---
 
