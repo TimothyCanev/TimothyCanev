@@ -12,23 +12,23 @@
 ---
 
 ### ✨ My academic work & projects
-** **5th Semester** -- Currently
+**5th Semester** -- Currently
 * Developing a full-stack **Scalable Website**. This is a website for the clients of Waterless Company to display the usage of Urinals. This website communicates with a micro-controller to gather and display data, stores data in a database, sends email notifications and uses User Authentication.
 * Diving deeper into **React VITE** to create the FrontEnd, **Firebase** for the data storage, **HTML, CSS, JavaScript** as the programming languages for the logic, **Vercel** to deploy the website and **Microcontrollers** to gather and send data based on the usage of the Urinals.
 
-** **4th Semester**
+**4th Semester**
 * Created a full-stack **Scalable Website**. This is a book reccomendation website, that utilizes User Authentication, **AI and Machine Learning** to reccomend books based on favourited books for an individual.
 * Utilizing **Django** as the framework, Importing data from a provided database, **HTML, CSS, JavaScript and Python with Django** as the programming languages.
 
-** **3th Semester**
+**3th Semester**
 * Developed a full-stack **Application & Scalable Website**. This is a automated electric-table system, that stores each employees personal preferences on table heights, sets physical tables heights according to employees preferences, gives health statistics and recommendations. Includes User Authentication to distinguis between a User and a Admin for different permissions. Additonally a application was developed to help employees have an easier time to pre-set their table heights and for Administrators to display the overview of employees preferences and health statistics.
 * Using **Laravel** as the framework, **Unity** for the application, **C# with Unity, HTML, CSS, JavaScript and PHP with Laravel** as the programming languages, **Pico Board** in order to flash lights on tables when a notification arrives and play sounds.
 
-** **2nd Semester**
+**2nd Semester**
 * Made a **Application**. This is a application that displays statistics. This application serves the purpose to display and graph out the statistics and usages of heating for Danfoss.
 * Utilizing **Avalonia** as the framework,**C#** as the programming language and **.NET**.
 
-** **1st Semester**
+**1st Semester**
 * Created a **Text based game**. This was a text based game for the user to play.
 * Used **C#** as the programming language and **.NET**.
 
